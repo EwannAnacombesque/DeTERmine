@@ -1,5 +1,5 @@
 # A French TER path finder using SNCF NeTEx files
-- Download the raw data from [data.gouv.fr](data.gouv.fr) and replace [sncf_netexfr_YYYYYMMDD_2305.xml](https://github.com/EwannAnacombesque/DeTERmine/blob/main/sncf_netexfr_20240509_2305.xml). 
+- Download the raw data from [data.gouv.fr](https://www.data.gouv.fr/fr/) and replace [sncf_netexfr_YYYYYMMDD_2305.xml](https://github.com/EwannAnacombesque/DeTERmine/blob/main/sncf_netexfr_20240509_2305.xml). 
 - You can have access to the shortest (in term of time or distance) path from a train station to an other, only using TERs.
 - Use the __API__ or the __GUI__ to obtain your journey.
 - Only hardload the NeTEx file once, unless you want to __update__ the data.
@@ -18,9 +18,9 @@ Arrive à 19:39:00 à Grenoble : terminus
 =------------------------------------=
 ```
 # GUI
-- I decided to mimic the graphical charter of [sncf-connect.fr](sncf-connect.fr)
+- I decided to mimic the graphical charter of [sncf-connect.fr](https://www.sncf-connect.com/)
 - The font used is the Avenir Font
-- The icons come from [fontawesome.com](fontawesome.com)
+- The icons come from [fontawesome.com](https://fontawesome.com/)
 - Everything else (UX/UI/Maps etc) is made with pygame by me
 ![Illustration](https://github.com/EwannAnacombesque/DeTERmine/blob/main/Illustrations/GUI%20illustration.png)
 ![Illustration](https://github.com/EwannAnacombesque/DeTERmine/blob/main/Illustrations/GUI%20illustration%202.png)

@@ -21,4 +21,7 @@ Arrive à 19:39:00 à Grenoble : terminus
 - I decided to mimic the graphical charter of [sncf-connect.fr](sncf-connect.fr)
 - The font used is the Avenir Font
 - The icons come from [fontawesome.com](fontawesome.com)
-- Everything else is made with pygame by me
+- Everything else (UX/UI/Maps etc) is made with pygame by me
+![Illustration](https://github.com/EwannAnacombesque/DeTERmine/blob/main/Illustrations/GUI%20illustration.png)
+![Illustration](https://github.com/EwannAnacombesque/DeTERmine/blob/main/Illustrations/GUI%20illustration%202.png)
+![MAP](https://github.com/EwannAnacombesque/DeTERmine/blob/main/Illustrations/Dinan%20Grenoble.png)
